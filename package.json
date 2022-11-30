@@ -8,7 +8,7 @@
     "run:types": "node ./dist/types.js",
     "runall": "npm run build && node ./dist/multiplier.js",
     "calculator": "npm run build && node ./dist/calculator.js",
-    "object": "npm run build && node ./dist/objects.js"
+    "current": "npm run build && node ./dist/arrays.js"
   },
   "author": "",
   "license": "ISC",
